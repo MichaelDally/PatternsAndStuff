@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PatternSearch</string>
+    <string name="viewfinder_description">Viewfinder for image search.</string>
+    <string name="background_description">Background image</string>
+</resources>
